@@ -1,0 +1,29 @@
+body{font-family:Sans-serif,Arial;
+text-align:center;}
+
+div{margin-bottom:16px;
+justify-content:flex-start;}
+table{text-align:center;
+margin-left:auto;
+margin-right:auto;}
+label,tr{font-size:1.2em;}
+
+input[type=submit]{
+    background-color: rgb(13, 6, 45);
+    border: none;
+    color: white;
+	border-radius:2px;
+    padding: 6px 16px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+	font-size:1.2em;
+	transition: background-color 0.2s ease;
+}
+
+input[type=submit]:hover{
+    background-color: rgb(255, 6, 45);
+    
+}
+
+.imageContainer{text-align:center;}
