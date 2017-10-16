@@ -3,8 +3,9 @@
 *Technologies used: HTML, CSS, PHP, MySQL*
 
 This site allows users to upload and view JPEG files accompanied by a description. It does this by storing information about the upload into a MySQL table called 'images'. Retrieving the data allows images held on the filesystem to be displayed with their respective description. A summary of of all thumbnail images exists on the homepage with no image larger than 150px x 150px. Clicking on a thumbnail takes you to another view where the image is displayed at a maximum of 600px x 600px. To go back to the thumbnails you may click on the image.
-***
-View demo here [http://titan.dcs.bbk.ac.uk/~zqadee01/w1fma/index](http://titan.dcs.bbk.ac.uk/~zqadee01/w1fma/index.php)
+
+
+> View demo here [http://titan.dcs.bbk.ac.uk/~zqadee01/w1fma/index](http://titan.dcs.bbk.ac.uk/~zqadee01/w1fma/index.php)
 
 ---
 
